@@ -4,8 +4,8 @@ role: Ph.D. student of Artificial Intelligence
 bio: ""
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Reinforcement Learning
+  - Probabilistic Inference
 social:
   - icon: envelope
     icon_pack: fas
@@ -40,6 +40,9 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-Hi! I'm Wenzhe Li. I'm a first year Ph.D. student in Computer Science at  Tsinghua University. My advisor is Chongjie Zhang.
+I am a first year Ph.D. student in Computer Science at [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/about/). My advisor is [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
 
-My research interests 
+My research interests lie in reinforcement learning and probabilistic methods for machine learning. I have worked on topics including offline reinforcement learning, score-based generative models, and approximate inference.
+
+I received my B.E. from the Department of Computer Science and Technology at Tsinghua University, where I was fortunate to work with [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/).
+
