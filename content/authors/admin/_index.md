@@ -15,13 +15,13 @@ social:
     link: https://twitter.com/WenzheLiTHU
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=WMC5PsAAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/wenzhe-li
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Tsinghua University
+    url: https://www.tsinghua.edu.cn/
 education:
   courses:
     - course: Ph.D. in Artificial Intelligence
