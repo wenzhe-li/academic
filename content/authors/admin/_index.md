@@ -1,6 +1,7 @@
 ---
 title: Wenzhe Li
 role: Ph.D. student in Artificial Intelligence
+avatar_filename: 大图.jpg
 bio: ""
 interests:
   - Artificial Intelligence
