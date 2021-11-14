@@ -34,7 +34,7 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-I am a first year Ph.D. student in Computer Science at [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/about/). My advisor is [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
+My name is Wenzhe Li (李文哲). I am a first year Ph.D. student in Computer Science at [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/about/). My advisor is [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
 
 My research interests lie in reinforcement learning and probabilistic methods for machine learning. I have worked on topics including offline reinforcement learning, score-based generative models, and approximate inference.
 
