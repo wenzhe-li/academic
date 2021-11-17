@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Wenzhe Li</title>
+    <link>https://wenzhe-li.github.io/publication/</link>
+      <atom:link href="https://wenzhe-li.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>© Copyright 2021 Wenzhe Li. Icons made by Freepik from www.flaticon.com.</copyright><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wenzhe-li.github.io/media/icon_huc9fdf3b8e6424f0781d6074e4869ee92_27796_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://wenzhe-li.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Tractable Computation of Expected Kernels</title>
+      <link>https://wenzhe-li.github.io/publication/uai21/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://wenzhe-li.github.io/publication/uai21/</guid>
+      <description>&lt;!-- &lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+
+
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). --&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
