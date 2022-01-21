@@ -28,7 +28,7 @@ publishDate: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In Proceedings of the 37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
+publication: 37th Conference on Uncertainty in Artificial Intelligence (UAI 2021)
 publication_short: UAI 2021
 
 abstract: "Computing the expectation of kernel functions is a ubiquitous task in machine learning, with applications from classical support vector machines to exploiting kernel embeddings of distributions in probabilistic modeling, statistical inference, causal discovery, and deep learning. In all these scenarios, we tend to resort to Monte Carlo estimates as expectations of kernels are intractable in general. In this work, we characterize the conditions under which we can compute expected kernels exactly and efficiently, by leveraging recent advances in probabilistic circuit representations. We first construct a circuit representation for kernels and propose an approach to such tractable computation. We then demonstrate possible advancements for kernel embedding frameworks by exploiting tractable expected kernels to derive new algorithms for two challenging scenarios: 1) reasoning under missing data with kernel support vector regressors; 2) devising a collapsed black-box importance sampling scheme. Finally, we empirically evaluate both algorithms and show that they outperform standard baselines on a variety of datasets."
@@ -46,12 +46,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'github.com/UCLA-StarAI/ExpectedKernels'
+url_pdf: 'https://arxiv.org/abs/2102.10562'
+url_code: 'https://github.com/UCLA-StarAI/ExpectedKernels'
 url_dataset: ''
-url_poster: ''
+url_poster: 'publication/uai21/uai21-poster.pdf'
 url_project: ''
-url_slides: ''
+url_slides: 'publication/uai21/uai21-slides.pdf'
 url_source: ''
 url_video: 'https://s3.amazonaws.com/pf-upload-01/u-59356/0/2021-06-14/tf43qro/record_released.mp4'
 
