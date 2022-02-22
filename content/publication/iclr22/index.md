@@ -13,7 +13,7 @@ authors:
 - Yali Du
 - Xiu Li
 - Lei Han
-- CHongjie Zhang
+- Chongjie Zhang
 
 # Author notes (optional)
 
