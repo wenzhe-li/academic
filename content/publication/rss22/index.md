@@ -17,7 +17,7 @@ authors:
 
 # Author notes (optional)
 
-date: "2022-06-01"
+date: "1022-06-01"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).

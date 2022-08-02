@@ -3,8 +3,8 @@ title: Wenzhe Li
 role: Ph.D. student in Artificial Intelligence
 bio: ""
 interests:
-  - Artificial Intelligence
   - Reinforcement Learning
+  - Offline Decision Making
   - Probabilistic Inference
 social:
   - icon: envelope
