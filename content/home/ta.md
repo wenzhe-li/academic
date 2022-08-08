@@ -10,7 +10,7 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'TAs'
+title: 'Teaching'
 subtitle:
 
 # Date format
@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Tsinghua University
   organization_url:
-  title: Deep Reinforcement Learning
+  title: Deep Reinforcement Learning (TA)
   url: ""
 - certificate_url:
   date_end: ""
@@ -37,6 +37,6 @@ item:
   description: ""
   organization: Tsinghua University
   organization_url:
-  title: "Artificial Intelligence: Principles and Techniques"
+  title: "Artificial Intelligence: Principles and Techniques (TA)"
   url: ""
 ---
