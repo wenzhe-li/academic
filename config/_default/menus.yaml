@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 40
-  - name: TAs
+  - name: Teaching
     url: '#ta'
     weight: 50
   - name: Contact
