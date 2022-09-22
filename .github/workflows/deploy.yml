@@ -7,10 +7,10 @@ on:
   pull_request:
 
 jobs:
-  environment:
-    name: github-pages
-    url: ${{ steps.deployment.outputs.page_url }}
   deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-20.04
     permissions:
       contents: write
