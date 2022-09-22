@@ -2,7 +2,7 @@
 .idea/
 
 # Hugo
-/resources/
-# public/
+resources/
+public/
 jsconfig.json
 node_modules/
