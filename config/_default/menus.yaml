@@ -9,6 +9,9 @@ main:
     weight: 10
   - name: Publications
     url: '#featured'
+    weight: 40
+  - name: Teaching
+    url: '#ta'
     weight: 50
   - name: Contact
     url: '#contact'
