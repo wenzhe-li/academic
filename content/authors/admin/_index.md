@@ -40,7 +40,7 @@ My research interests lie in reinforcement learning and probabilistic methods fo
 
 I received my B.E. from the Department of Computer Science and Technology at Tsinghua University, where I was fortunate to work with [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Guy van den Broeck](https://web.cs.ucla.edu/~guyvdb/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/). -->
 
-My name is Wenzhe Li (李文哲). I received my B.E. from the Department of Computer Science and Technology at Tsinghua University, where I was fortunate to work with [Jun Zhu](https://ml.cs.tsinghua.edu.cn/~jun/index.shtml), [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/). Currently, I am working with [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/about/).
+My name is Wenzhe Li (李文哲). I received my B.E. from the Department of Computer Science and Technology at Tsinghua University, where I was fortunate to work with [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/) and [Stefano Ermon](https://cs.stanford.edu/~ermon/). Currently, I am working with [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/) at [Institute for Interdisciplinary Information Sciences, Tsinghua University](https://iiis.tsinghua.edu.cn/en/about/).
 
 My research interests lie in reinforcement learning and probabilistic methods for machine learning. I have worked on topics including offline reinforcement learning, score-based generative models, and approximate inference.
 
