@@ -3,9 +3,9 @@ title: Wenzhe Li
 # role: Ph.D. student in Artificial Intelligence
 bio: ""
 interests:
+  - LLM Reasoning & Agents
   - Reinforcement Learning
-  - Offline Decision Making
-  - Probabilistic Inference
+  - Multi-agent Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -34,10 +34,6 @@ email: ""
 superuser: true
 highlight_name: true
 ---
-
 My name is Wenzhe Li (李文哲). I am a Ph.D. student in the Department of Electrical and Computer Engineering at Princeton University, advised by [Chi Jin](https://sites.google.com/view/cjin/home). I received my B.E. from the Department of Computer Science and Technology at Tsinghua University, where I was fortunate to work with [Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/), [Guy Van den Broeck](https://web.cs.ucla.edu/~guyvdb/), and [Stefano Ermon](https://cs.stanford.edu/~ermon/).
 
-My research interests lie in reinforcement learning and probabilistic methods for machine learning. I have worked on topics including offline reinforcement learning, score-based generative models, and approximate inference.
-
-
-
+My research interests lie in the intersection of reinforcement learning, multi-agent learning, and LLMs. I have worked on topics including LLMs, multi-agent reinforcement learning, offline reinforcement learning, score-based generative models, and approximate inference.
